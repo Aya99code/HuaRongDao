@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HuaRongDao</string>
+    <string name="step">STEP: </string>
+    <string name="reopen">restart</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="solve">solve</string>
+</resources>
